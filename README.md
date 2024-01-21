@@ -1,0 +1,1 @@
+Uploads for IGME 750 A1. I never uploaded an Unreal project to github before so I don't know the do's and don'ts of uploading. For example, I feel like I totally did not need to upload everything in the content folder but better safe than sorry. I had trouble with Godot so I just decided to skip the uploading of that. Maybe I'll get around to setting it up later this week.
